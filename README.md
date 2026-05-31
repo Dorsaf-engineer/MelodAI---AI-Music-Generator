@@ -88,3 +88,9 @@ Energetic electronic dance music
 This project uses **MusicGen**, a state-of-the-art generative model developed by Meta AI for text-to-music generation.
 
 The model converts textual descriptions into audio signals, enabling users to create unique music compositions without any musical expertise.
+
+## 🎥 Demonstration
+https://drive.google.com/file/d/1YnlYDEq7bi0ehyws2NFPQ7T1vbKx5XTn/view?usp=sharing
+
+## 👨‍💻 Author
+[Dorsaf Ben Nasr]
